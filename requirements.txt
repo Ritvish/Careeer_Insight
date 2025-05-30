@@ -1,0 +1,11 @@
+streamlit 
+sklearn
+numpy
+pandas
+matplotlib
+sklearn.cluster
+sklearn.preprocessing
+sklearn.cluster
+scipy
+sentence_transformers
+PIL
